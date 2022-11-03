@@ -24,7 +24,7 @@
   "homepage": "https://github.com/legndery/internet-notifier#readme",
   "dependencies": {
     "node-notifier": "^5.2.1",
-    "ping": "^0.2.2"
+    "ping": "^0.4.2"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^4.5.2",
