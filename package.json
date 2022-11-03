@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/legndery/internet-notifier#readme",
   "dependencies": {
-    "node-notifier": "^5.2.1",
+    "node-notifier": "^5.4.5",
     "ping": "^0.2.2"
   },
   "devDependencies": {
